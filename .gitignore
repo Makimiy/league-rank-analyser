@@ -1,0 +1,12 @@
+# Ignore the env file
+.env
+
+# Ignore all CSV files
+*.csv
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore python garbage
+__pycache__/
+*.py[cod]
